@@ -149,7 +149,6 @@ fact_expense Table<img width="690" height="688" alt="image" src="https://github.
 
 
 ## 🎥 Project Walkthrough 
-## 🎥 Project Walkthrough 
 
 ## 🔗 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/jyoti-nayak-12884a331/
